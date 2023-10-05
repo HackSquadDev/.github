@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://hacksquad.dev">
-    <img  alt="logo" src="https://www.hacksquad.dev/_next/image/?url=%2F_next%2Fstatic%2Fmedia%2Fhome-hero.be9a8c93.jpg&w=1920&q=99"
+    <img  alt="logo" src="https://www.hacksquad.dev/images/social-previews/main.jpg"
   </a>
 </p>
 
 <h2 align="center">
-Welcome to Hacksquad 2022!
+Welcome to Hacksquad 2023!
 </h2>
 <h3 align="center">
 Contribute code as a squad, meet community members, participate in workshops, and win SWAG
@@ -27,7 +27,7 @@ With the fantastic atmosphere of Hacktoberfest, we have decided to create Hacksq
 HackSquad allows contributors to contribute code **as a squad** instead of a single contributor. Engage the community in a friendly competition over the month of October.
 
 <p align="center">
-  <a href="https://hacksquad.dev">SIGN UP TO HACKSQUAD 2022, AND JOIN A TEAM 🚀</a>
+  <a href="https://hacksquad.dev">SIGN UP TO HACKSQUAD 2023, AND JOIN A TEAM 🚀</a>
 </p>
 
 ## How does it work?
@@ -46,7 +46,7 @@ Register to the HackSquad using your GitHub, Join a squad or get assigned to a *
 - Win swag
 
 <p align="center">
-  <a href="https://hacksquad.dev">SIGN UP TO HACKSQUAD 2022, AND JOIN A TEAM 🚀</a>
+  <a href="https://hacksquad.dev">SIGN UP TO HACKSQUAD 2023, AND JOIN A TEAM 🚀</a>
 </p>
 
 <p align="center"><strong>You can sign-up for both Hacktoberfest and HackSquad</strong></p>
