@@ -5,13 +5,13 @@
 </p>
 
 <h2 align="center">
-Welcome to Hacksquad 2022!
+Welcome to Hacksquad 2023!
 </h2>
 <h3 align="center">
 Contribute code as a squad, meet community members, participate in workshops, and win SWAG
 </h3>
 
-With the fantastic atmosphere of Hacktoberfest, we have decided to create Hacksquad. Hacksquad is here to enhance your **Swag**, meet with more community members and participate in workshops from our great sponsors.
+With the fantastic atmosphere of Hacktoberfest, we have decided to create Hacksquad. Hacksquad is here to enhance your **Swag**, meet with more community members, and participate in workshops from our great sponsors.
 
 <a href="https://www.hacksquad.dev/#sponsors">
   </br>
@@ -27,12 +27,12 @@ With the fantastic atmosphere of Hacktoberfest, we have decided to create Hacksq
 HackSquad allows contributors to contribute code **as a squad** instead of a single contributor. Engage the community in a friendly competition over the month of October.
 
 <p align="center">
-  <a href="https://hacksquad.dev">SIGN UP TO HACKSQUAD 2022, AND JOIN A TEAM 🚀</a>
+  <a href="https://hacksquad.dev">SIGN UP TO HACKSQUAD 2023, AND JOIN A TEAM 🚀</a>
 </p>
 
 ## How does it work?
 
-Register to the HackSquad using your GitHub, Join a squad or get assigned to a **random squad**. Each day we will calculate every squad member approved PR and sum them all together. By the end of the event, the top 300 winners will win awesome swag! around ~60 squads!
+Register to the HackSquad using your GitHub, Join a squad, or get assigned to a **random squad**. Each day we will calculate every squad member's approved PR and sum them all together. By the end of the event, the top 300 winners will win awesome swag! around ~60 squads!
 
 <a href="https://www.hacksquad.dev/#swag">
   <img src="https://user-images.githubusercontent.com/17677196/191267474-ab378f53-9d40-4dc6-ac98-ce4ceb0a8edc.png" alt="Swag"/>
